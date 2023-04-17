@@ -11,4 +11,3 @@ vim.keymap.set('n', '<leader>h', ':nohlsearch<CR>')
 vim.api.nvim_set_keymap('n', '<leader>w', ':w<CR>', { noremap = true })
 vim.api.nvim_set_keymap('n', '<leader>wa', ':wa<CR>', { noremap = true })
 vim.api.nvim_set_keymap('n', '<leader>q', ':q<CR>', { noremap = true })
-
